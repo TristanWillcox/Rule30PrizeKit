@@ -100,6 +100,8 @@ public import Ruliology.CellularAutomata.Rule30CenterRuns
 public import Ruliology.CellularAutomata.Rule30EtherThreeErosion
 public import Ruliology.CellularAutomata.Rule30WhiteTailErosion
 public import Ruliology.CellularAutomata.Rule30XorRigidity
+public import Ruliology.CellularAutomata.Rule30XorCollision
+public import Ruliology.CellularAutomata.Rule30XorSharpness
 public import Ruliology.CellularAutomata.Rule30StripeMeeting
 public import Ruliology.CellularAutomata.Rule30PaddedWords
 
